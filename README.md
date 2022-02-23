@@ -52,4 +52,5 @@ metadata: {
 ## License
 
 **@SiroDiaz/metascraper-universal-shopping** © 2022 Siro Díaz, Released under the [MIT](https://github.com/SiroDiaz/metascraper-universal-shopping/blob/main/LICENSE.md) License.
-**@sami/metascraper-shopping** © 2019 Samir Rayani, Released under the [MIT](https://github.com/samirrayani/metascraper-shopping/blob/master/LICENSE.md) License.
+
+**@sami/metascraper-shopping** © 2019-2022 Samir Rayani, Released under the [MIT](https://github.com/samirrayani/metascraper-shopping/blob/master/LICENSE.md) License.
