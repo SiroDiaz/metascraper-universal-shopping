@@ -1,4 +1,4 @@
-# metascraper-shopping
+# metascraper-universal-shopping
 
 [![npm](https://img.shields.io/npm/v/@sirodiaz/metascraper-universal-shopping.svg?style=flat-square)](https://www.npmjs.com/package/@sirodiaz/metascraper-universal-shopping)
 [![Dependency Status](https://david-dm.org/samirrayani/metascraper-shopping.svg?style=flat-square)](https://david-dm.org/samirrayani/metascraper-shopping)
