@@ -1,6 +1,6 @@
 # metascraper-shopping
 
-[![npm](https://img.shields.io/npm/v/@samirrayani/metascraper-shopping.svg?style=flat-square)](https://www.npmjs.com/package/@samirrayani/metascraper-shopping)
+[![npm](https://img.shields.io/npm/v/@sirodiaz/metascraper-universal-shopping.svg?style=flat-square)](https://www.npmjs.com/package/@sirodiaz/metascraper-universal-shopping)
 [![Dependency Status](https://david-dm.org/samirrayani/metascraper-shopping.svg?style=flat-square)](https://david-dm.org/samirrayani/metascraper-shopping)
 
 > A custom rule bundle for [@microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) to get product information from HTML markup on merchant websites
@@ -8,7 +8,7 @@
 ## Install
 
 ```bash
-$ npm install @samirrayani/metascraper-shopping --save
+$ npm install @sirodiaz/metascraper-universal-shopping --save
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ $ npm install @samirrayani/metascraper-shopping --save
 'use strict'
 
 const metascraper = require('metascraper')([
-  require('@samirrayani/metascraper-shopping')(),
+  require('@sirodiaz/metascraper-universal-shopping')(),
   require('metascraper-title')(),
   require('metascraper-image')(),
   require('metascraper-url')()
@@ -51,4 +51,5 @@ metadata: {
 
 ## License
 
-**@samirrayani/metascraper-shopping** © 2019 Samir Rayani, Released under the [MIT](https://github.com/samirrayani/metascraper-shopping/blob/master/LICENSE.md) License.
+**@SiroDiaz/metascraper-universal-shopping** © 2022 Siro Díaz, Released under the [MIT](https://github.com/SiroDiaz/metascraper-universal-shopping/blob/main/LICENSE.md) License.
+**@sami/metascraper-shopping** © 2019 Samir Rayani, Released under the [MIT](https://github.com/samirrayani/metascraper-shopping/blob/master/LICENSE.md) License.

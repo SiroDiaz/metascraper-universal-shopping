@@ -1,6 +1,6 @@
 {
-  "name": "@samirrayani/metascraper-shopping",
-  "version": "1.4.16",
+  "name": "@sirodiaz/metascraper-universal-shopping",
+  "version": "1.5.0",
   "description": "Get product information from HTML markup on merchant websites",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/samirrayani/metascraper-shopping.git"
+    "url": "git+https://github.com/SiroDiaz/metascraper-universal-shopping.git"
   },
   "keywords": [
     "price",
@@ -25,12 +25,20 @@
   "pre-commit": [
     "test"
   ],
-  "author": "Samir Rayani",
+  "authors": [
+    {
+      "name": "Samir Rayani"
+    },
+    {
+      "name": "Siro Diaz",
+      "email": "sirodiaz93@gmail.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/samirrayani/metascraper-shopping/issues"
+    "url": "https://github.com/SiroDiaz/metascraper-universal-shopping/issues"
   },
-  "homepage": "https://github.com/samirrayani/metascraper-shopping#readme",
+  "homepage": "https://github.com/SiroDiaz/metascraper-universal-shopping#readme",
   "publishConfig": {
     "access": "public"
   },
